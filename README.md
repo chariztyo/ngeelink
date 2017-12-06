@@ -1,0 +1,2 @@
+# ngeelink
+file safelink
